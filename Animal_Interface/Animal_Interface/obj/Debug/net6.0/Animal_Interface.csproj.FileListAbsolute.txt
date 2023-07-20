@@ -1,0 +1,15 @@
+C:\Coding\Repository1\C-_WorkSpace3\Animal_Interface\Animal_Interface\bin\Debug\net6.0\Animal_Interface.exe
+C:\Coding\Repository1\C-_WorkSpace3\Animal_Interface\Animal_Interface\bin\Debug\net6.0\Animal_Interface.deps.json
+C:\Coding\Repository1\C-_WorkSpace3\Animal_Interface\Animal_Interface\bin\Debug\net6.0\Animal_Interface.runtimeconfig.json
+C:\Coding\Repository1\C-_WorkSpace3\Animal_Interface\Animal_Interface\bin\Debug\net6.0\Animal_Interface.dll
+C:\Coding\Repository1\C-_WorkSpace3\Animal_Interface\Animal_Interface\bin\Debug\net6.0\Animal_Interface.pdb
+C:\Coding\Repository1\C-_WorkSpace3\Animal_Interface\Animal_Interface\obj\Debug\net6.0\Animal_Interface.csproj.AssemblyReference.cache
+C:\Coding\Repository1\C-_WorkSpace3\Animal_Interface\Animal_Interface\obj\Debug\net6.0\Animal_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Repository1\C-_WorkSpace3\Animal_Interface\Animal_Interface\obj\Debug\net6.0\Animal_Interface.AssemblyInfoInputs.cache
+C:\Coding\Repository1\C-_WorkSpace3\Animal_Interface\Animal_Interface\obj\Debug\net6.0\Animal_Interface.AssemblyInfo.cs
+C:\Coding\Repository1\C-_WorkSpace3\Animal_Interface\Animal_Interface\obj\Debug\net6.0\Animal_Interface.csproj.CoreCompileInputs.cache
+C:\Coding\Repository1\C-_WorkSpace3\Animal_Interface\Animal_Interface\obj\Debug\net6.0\Animal_Interface.dll
+C:\Coding\Repository1\C-_WorkSpace3\Animal_Interface\Animal_Interface\obj\Debug\net6.0\refint\Animal_Interface.dll
+C:\Coding\Repository1\C-_WorkSpace3\Animal_Interface\Animal_Interface\obj\Debug\net6.0\Animal_Interface.pdb
+C:\Coding\Repository1\C-_WorkSpace3\Animal_Interface\Animal_Interface\obj\Debug\net6.0\Animal_Interface.genruntimeconfig.cache
+C:\Coding\Repository1\C-_WorkSpace3\Animal_Interface\Animal_Interface\obj\Debug\net6.0\ref\Animal_Interface.dll
