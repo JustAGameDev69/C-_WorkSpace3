@@ -1,0 +1,15 @@
+C:\Coding\Repository1\C-_WorkSpace3\Part_9_C#Basic\Part_9_C#Basic\bin\Debug\net6.0\Part_9_C#Basic.exe
+C:\Coding\Repository1\C-_WorkSpace3\Part_9_C#Basic\Part_9_C#Basic\bin\Debug\net6.0\Part_9_C#Basic.deps.json
+C:\Coding\Repository1\C-_WorkSpace3\Part_9_C#Basic\Part_9_C#Basic\bin\Debug\net6.0\Part_9_C#Basic.runtimeconfig.json
+C:\Coding\Repository1\C-_WorkSpace3\Part_9_C#Basic\Part_9_C#Basic\bin\Debug\net6.0\Part_9_C#Basic.dll
+C:\Coding\Repository1\C-_WorkSpace3\Part_9_C#Basic\Part_9_C#Basic\bin\Debug\net6.0\Part_9_C#Basic.pdb
+C:\Coding\Repository1\C-_WorkSpace3\Part_9_C#Basic\Part_9_C#Basic\obj\Debug\net6.0\Part_9_C#Basic.csproj.AssemblyReference.cache
+C:\Coding\Repository1\C-_WorkSpace3\Part_9_C#Basic\Part_9_C#Basic\obj\Debug\net6.0\Part_9_C#Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Repository1\C-_WorkSpace3\Part_9_C#Basic\Part_9_C#Basic\obj\Debug\net6.0\Part_9_C#Basic.AssemblyInfoInputs.cache
+C:\Coding\Repository1\C-_WorkSpace3\Part_9_C#Basic\Part_9_C#Basic\obj\Debug\net6.0\Part_9_C#Basic.AssemblyInfo.cs
+C:\Coding\Repository1\C-_WorkSpace3\Part_9_C#Basic\Part_9_C#Basic\obj\Debug\net6.0\Part_9_C#Basic.csproj.CoreCompileInputs.cache
+C:\Coding\Repository1\C-_WorkSpace3\Part_9_C#Basic\Part_9_C#Basic\obj\Debug\net6.0\Part_9_C#Basic.dll
+C:\Coding\Repository1\C-_WorkSpace3\Part_9_C#Basic\Part_9_C#Basic\obj\Debug\net6.0\refint\Part_9_C#Basic.dll
+C:\Coding\Repository1\C-_WorkSpace3\Part_9_C#Basic\Part_9_C#Basic\obj\Debug\net6.0\Part_9_C#Basic.pdb
+C:\Coding\Repository1\C-_WorkSpace3\Part_9_C#Basic\Part_9_C#Basic\obj\Debug\net6.0\Part_9_C#Basic.genruntimeconfig.cache
+C:\Coding\Repository1\C-_WorkSpace3\Part_9_C#Basic\Part_9_C#Basic\obj\Debug\net6.0\ref\Part_9_C#Basic.dll
