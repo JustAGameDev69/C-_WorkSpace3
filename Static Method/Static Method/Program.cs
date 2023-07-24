@@ -34,8 +34,8 @@ namespace static_method
             Student.College_Change();
 
             Student student_1 = new Student(1, "Nguyen Hoang");
-            Student student_2 = new Student(2, "Nguyen Hoang");
-            Student student_3 = new Student(3, "Nguyen Hoang");
+            Student student_2 = new Student(2, "Nguyen Hoa");
+            Student student_3 = new Student(3, "Nguyen Hieu");
 
             student_1.Display();
             student_2.Display();
